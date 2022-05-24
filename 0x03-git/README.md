@@ -13,3 +13,7 @@ course. This project is about learning to use `git` and `GitHub` efficiently and
 
 | File | Description |
 | :--- | :---: |
+| bash/alx | Bash script that prints "ALX School is so cool!" |
+| bash/school | Bash script that prints "School" |
+| c/c_is_fun.c | C file |
+| README.md | Readme file |
